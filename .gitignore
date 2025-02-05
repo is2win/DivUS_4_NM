@@ -1,0 +1,22 @@
+# Игнорирование кеша Python
+__pycache__/
+*.py[cod]
+
+# Игнорирование виртуальных окружений
+env/
+venv/
+ENV/
+
+# Игнорирование Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Игнорирование сборочных директорий
+build/
+dist/
+
+# Игнорирование метаданных IDE
+.vscode/
+.idea/
+
+# Игнорирование системных файлов
+.DS_Store 
